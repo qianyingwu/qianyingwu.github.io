@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Qianying's home on web!
+Welcome to my home on web!
 
-Qianying is currently a PhD student in at [Nanoheat Lab](hhttps://nanoheat.stanford.edu), supervised by Professor Ken Goodson. 
+I am currently a PhD student in at [Nanoheat Lab](hhttps://nanoheat.stanford.edu), advised by Professor Ken Goodson.
 
+In my space time, I can be found swimming in the pool or cooking at home :)
 
