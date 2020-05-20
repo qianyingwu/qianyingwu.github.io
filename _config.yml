@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Qianying Wu"
 title_separator          : "-"
 name                     : &name "Qianying Wu"
-description              : &description "Graduate Student at Stanford Mechanical Engineering"
+description              : &description "Mechanical Engineering PhD Student at Stanford"
 url                      : https://qianyingwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qianyingwu.github.io"
-teaser                   : "teaser.JPG"
+teaser                   : "/images/teaser.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Qianying Wu"
-  avatar           : "teaser.png"
-  bio              : "Graduate student at Stanford Mechanical Engineering"
+  avatar           : "/images/teaser.JPG"
+  bio              : "Mechanical Engineering PhD Student at Stanford"
   location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           : 
