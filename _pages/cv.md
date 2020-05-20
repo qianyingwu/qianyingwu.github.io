@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in Building Science, Tsinghua University, 2018
 * Ph.D in Mechanical Engineering, Stanford University, (2018- )
+* B.S. in Building Science, Tsinghua University, 2018
