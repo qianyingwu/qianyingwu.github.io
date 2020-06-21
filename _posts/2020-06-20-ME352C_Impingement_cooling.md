@@ -5,7 +5,7 @@ permalink: /posts/2020/06/impingement/
 tags:
   - modeling
   - fun project
-collection: portfolio
+# collection: portfolio
 ---
 
 This project is part of ME352C class taught by Professor John Eaton in Spring 2020 on convective heat transfer. Many thanks to the teaching team!
