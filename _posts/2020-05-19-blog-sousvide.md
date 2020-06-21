@@ -2,6 +2,7 @@
 title: 'Sous Vide at home'
 date: 2020-05-19
 permalink: /posts/2020/05/sousvide/
+excerpt: "My recent attempt to low-temperature cooking with a DIY system   <br/><img src='/images/sous-vide-2.JPG'>"
 tags:
   - quarantine
   - cooking
