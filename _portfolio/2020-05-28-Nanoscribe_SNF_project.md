@@ -2,6 +2,10 @@
 title: "3D, pourous, electroplated metallic structures using two-photon lithography patterned templates"
 excerpt: "A project involving 3D patterning and electrodeposition partnered with Alisha Piazza and funded by Stanford Nanofabrication Facility <br/><img src='/images/Process_Schematic_E241.png'>"
 collection: portfolio
+permalink: /posts/2020/05/E241project/
+tags:
+  - quarantine
+  - fun project
 ---
 
 Highlights of this project
@@ -10,6 +14,8 @@ Highlights of this project
 characterize how these surfaces affect writing parameters.
 2. Developed an SOP for the electrodeposition on small 3D photoresist templates and the removal of
 these sacrificial templates.
+
+![photo1](/images/Process_Schematic_E241.png)
 
 Related links
 ---------

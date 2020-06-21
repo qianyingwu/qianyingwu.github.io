@@ -1,7 +1,8 @@
 ---
 title: 'Playing with water splat at home'
-date: 2020-06-20
-permalink: /posts/2020/05/watersplat/
+date: 2020-06-19
+excerpt: "At-home experiments on the asymmetry of water drop impacted on an inclined solid surface   <br/><img src='/images/watersplat/01.png'>"
+permalink: /posts/2020/06/watersplat/
 tags:
   - quarantine
   - fun project
