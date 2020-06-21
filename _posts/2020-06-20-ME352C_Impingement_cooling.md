@@ -1,6 +1,10 @@
 ---
 title: "Impingement cooling of a convectively heated surface"
-excerpt: "Numerical solution of a conjugate heat transfer problem using discrete Green's functions <br/><img src='/images/Impingement/01.png'>"
+excerpt: "Numerical solution of a conjugate heat transfer problem using discrete Green's functions   <br/><img src='/images/Impingement/01.png'>"
+permalink: /posts/2020/06/impingement/
+tags:
+  - modeling
+  - fun project
 collection: portfolio
 ---
 

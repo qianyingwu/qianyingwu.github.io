@@ -6,6 +6,7 @@ permalink: /posts/2020/06/watersplat/
 tags:
   - quarantine
   - fun project
+  - experiment
 ---
 
 This project is part of ME354 class taught by Professor Juan Santiago's class on Experimental Methods in Fluids Dynamics. Many thanks to the teaching team!
